@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/carbon-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/carbon-eureka/src/main/resources/log4j/log4j2-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-eureka/src/main/resources/log4j/log4j2-debug.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-eureka/src/main/resources/log4j/log4j2-info.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-eureka/src/main/resources/log4j/log4j2.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/carbon-gateway/src/main/resources/log4j/log4j2-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-gateway/src/main/resources/log4j/log4j2-debug.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-gateway/src/main/resources/log4j/log4j2-info.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-gateway/src/main/resources/log4j/log4j2.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/log4j/log4j2-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/log4j/log4j2-debug.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/log4j/log4j2-info.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/log4j/log4j2.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/mybatis/mapper/RoleAuthMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/mybatis/mapper/UserInfoMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/mybatis/mapper/UserMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/mybatis/mapper/UserRoleMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/carbon-user/src/main/resources/mybatis/mybatis-generator-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

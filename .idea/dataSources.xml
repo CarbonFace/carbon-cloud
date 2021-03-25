@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="localDB-user" uuid="5951a4f0-3cdc-4169-95a0-d81f09779d66">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/carbonuser</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT+8" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
