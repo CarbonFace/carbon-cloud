@@ -10,3 +10,6 @@
 [submodule "carbon-user"]
 	path = carbon-user
 	url = https://github.com/CarbonFace/carbon-user.git
+[submodule "carbonface"]
+	path = carbonface
+	url = https://github.com/CarbonFace/carbonface.git
