@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
-        <spring-cloud.version>2020.0.2</spring-cloud.version>
+        <spring-cloud.version>2020.0.1</spring-cloud.version>
     </properties>
     <developers>
         <developer>
@@ -25,6 +25,13 @@
             <email>carbonface@carbonface.cn</email>
         </developer>
     </developers>
+        <modules>
+            <module>carbon-common</module>
+            <module>carbon-eureka</module>
+            <module>carbon-user</module>
+            <module>carbon-gateway</module>
+            <module>carbonface</module>
+        </modules>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -87,4 +94,16 @@
         </dependencies>
     </dependencyManagement>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier>exec</classifier>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>
 </project>

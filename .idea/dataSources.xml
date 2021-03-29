@@ -10,5 +10,14 @@
         <property name="serverTimezone" value="GMT+8" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="localDB-carbonface" uuid="1419161f-ccfb-4f9c-b155-d9106fbf285f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/carbonface</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT+8" />
+      </driver-properties>
+    </data-source>
   </component>
 </project>
