@@ -4,9 +4,6 @@
 [submodule "carbon-gateway"]
 	path = carbon-gateway
 	url = https://github.com/CarbonFace/carbon-gateway.git
-[submodule "carbon-common"]
-	path = carbon-common
-	url = https://github.com/CarbonFace/carbon-common.git
 [submodule "carbon-user"]
 	path = carbon-user
 	url = https://github.com/CarbonFace/carbon-user.git
