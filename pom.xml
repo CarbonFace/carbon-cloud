@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.4.3</version>
+        <version>2.2.5.RELEASE</version>
     </parent>
     <groupId>cn.carbonface</groupId>
     <artifactId>carbon-cloud</artifactId>
@@ -30,6 +30,7 @@
             <module>carbon-eureka</module>
             <module>carbon-user</module>
             <module>carbon-gateway</module>
+            <module>carbon-security</module>
             <module>carbonface</module>
         </modules>
     <dependencies>

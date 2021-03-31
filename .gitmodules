@@ -13,3 +13,6 @@
 [submodule "carbon-common"]
 	path = carbon-common
 	url = https://github.com/CarbonFace/carbon-common.git
+[submodule "carbon-security"]
+	path = carbon-security
+	url = https://github.com/CarbonFace/carbon-security.git
