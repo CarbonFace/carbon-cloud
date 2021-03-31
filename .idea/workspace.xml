@@ -5,17 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d482da-dee7-4daa-bb5a-f74abc380880" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/tools/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/tools/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/interceptor/FeignOnlyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-common" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-common" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/dto/ApiResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/dto/ApiResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/exception/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/exception/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/interceptor/AnnotationInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-gateway" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-gateway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-gateway/src/main/java/cn/carbonface/carbongateway/CarbonGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-gateway/src/main/java/cn/carbonface/carbongateway/CarbonGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user/src/main/java/cn/carbonface/carbonuser/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon-user/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carbon-user/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface/src/main/java/cn/carbonface/carbonface/CarbonfaceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface/src/main/java/cn/carbonface/carbonface/CarbonfaceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface/src/main/java/cn/carbonface/carbonface/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface/src/main/java/cn/carbonface/carbonface/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbonface/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carbonface/src/main/resources/application-prod.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/carbon-gateway" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="RunManager">
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qQVheNo9XZtxJlX14Mz3qaV4Li" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/carbon-gateway/src/main/java/cn/carbonface/carbongateway/filter" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CarbonFace\carbon-cloud\carbon-gateway\src\main\java\cn\carbonface\carbongateway\filter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CarbonGatewayApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -27,56 +123,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="carbon-cloud" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration name="CarbonCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carbon-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.carbonface.carboncommon.CarbonCommonApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="carbon-cloud" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration name="CarbonEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carbon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.carbonface.carboneureka.CarbonEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarbonGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carbon-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.carbonface.carbongateway.CarbonGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarbonUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carbon-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.carbonface.carbonuser.CarbonUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarbonfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carbonface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.carbonface.carbonface.CarbonfaceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d482da-dee7-4daa-bb5a-f74abc380880" name="Default Changelist" comment="" />
+      <created>1617011921340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617011921340</updated>
+      <workItem from="1617011922646" duration="503000" />
+      <workItem from="1617012470045" duration="1509000" />
+      <workItem from="1617066781743" duration="43004000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -89,6 +190,42 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carbon-common/src/main/java/cn/carbonface/carboncommon/interceptor/FeignOnlyInterceptor.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-server/3.0.1/spring-cloud-gateway-server-3.0.1.jar!/org/springframework/cloud/gateway/filter/headers/RemoveHopByHopHeadersFilter.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carbon-gateway/src/main/java/cn/carbonface/carbongateway/filter/CarbonGatewayFeignFilter.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="feign.FeignException$ServiceUnavailable" package="feign" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.apache.catalina.core.ApplicationContext" memberName="sessionCookieConfig" />
+        <PinnedItemInfo parentTag="org.apache.catalina.core.ApplicationContextFacade" memberName="classCache" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="httpHeadersConsumer" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

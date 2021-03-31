@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbon-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbon-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbon-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbon-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbonface" vcs="Git" />
+  </component>
+</project>
