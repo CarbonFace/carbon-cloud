@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/carbon-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/carbon-eureka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/carbon-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carbon-security" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/carbon-user" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/carbonface" vcs="Git" />
   </component>
