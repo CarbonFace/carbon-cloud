@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/carbon-security/pom.xml" />
+        <option value="$PROJECT_DIR$/carbon-mail/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="carbon-user" />
+        <module name="carbon-mail" />
         <module name="carbon-gateway" />
         <module name="carbon-eureka" />
         <module name="carbon-common" />

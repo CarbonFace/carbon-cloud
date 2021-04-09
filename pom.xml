@@ -32,6 +32,7 @@
             <module>carbon-gateway</module>
             <module>carbon-security</module>
             <module>carbonface</module>
+            <module>carbon-mail</module>
         </modules>
     <dependencies>
         <dependency>

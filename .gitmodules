@@ -16,3 +16,6 @@
 [submodule "carbon-security"]
 	path = carbon-security
 	url = https://github.com/CarbonFace/carbon-security.git
+[submodule "carbon-mail"]
+	path = carbon-mail
+	url = https://github.com/CarbonFace/carbon-mail.git
