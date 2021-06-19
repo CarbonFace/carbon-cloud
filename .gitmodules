@@ -19,3 +19,6 @@
 [submodule "carbon-mail"]
 	path = carbon-mail
 	url = https://github.com/CarbonFace/carbon-mail.git
+[submodule "carbon-docker"]
+	path = carbon-docker
+	url = https://git@github.com:CarbonFace/carbon-docker.git
