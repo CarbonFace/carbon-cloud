@@ -18,7 +18,7 @@
 	url = git@github.com:CarbonFace/carbon-security.git
 [submodule "carbon-mail"]
 	path = carbon-mail
-	url = git@github.com:/CarbonFace/carbon-mail.git
+	url = git@github.com:CarbonFace/carbon-mail.git
 [submodule "carbon-docker"]
 	path = carbon-docker
 	url = git@github.com:CarbonFace/carbon-docker.git
