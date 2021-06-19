@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 /logs/
-/docker/*/*.jar
+/carbon-docker/**/*.jar
