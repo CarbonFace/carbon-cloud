@@ -1,24 +1,24 @@
 [submodule "carbon-eureka"]
 	path = carbon-eureka
-	url = https://github.com/CarbonFace/carbon-eureka.git
+	url = git@github.com:CarbonFace/carbon-eureka.git
 [submodule "carbon-gateway"]
 	path = carbon-gateway
-	url = https://github.com/CarbonFace/carbon-gateway.git
+	url = git@github.com:CarbonFace/carbon-gateway.git
 [submodule "carbon-user"]
 	path = carbon-user
-	url = https://github.com/CarbonFace/carbon-user.git
+	url = git@github.com:CarbonFace/carbon-user.git
 [submodule "carbonface"]
 	path = carbonface
-	url = https://github.com/CarbonFace/carbonface.git
+	url = git@github.com:CarbonFace/carbonface.git
 [submodule "carbon-common"]
 	path = carbon-common
-	url = https://github.com/CarbonFace/carbon-common.git
+	url = git@github.com:CarbonFace/carbon-common.git
 [submodule "carbon-security"]
 	path = carbon-security
-	url = https://github.com/CarbonFace/carbon-security.git
+	url = git@github.com:CarbonFace/carbon-security.git
 [submodule "carbon-mail"]
 	path = carbon-mail
-	url = https://github.com/CarbonFace/carbon-mail.git
+	url = git@github.com:/CarbonFace/carbon-mail.git
 [submodule "carbon-docker"]
 	path = carbon-docker
-	url = https://git@github.com:CarbonFace/carbon-docker.git
+	url = git@github.com:CarbonFace/carbon-docker.git
